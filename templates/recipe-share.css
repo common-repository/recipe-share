@@ -1,0 +1,19 @@
+@charset "UTF-8";
+/* CSS Document */
+
+h3.recipe-title {
+	color: #666;
+	margin-bottom: 2px;
+	border-bottom: 1px solid #666;
+}
+h4.recipe-author {
+	font: bold 14px;
+	margin: 0px 0px 5px;
+}
+.recipe-notes {
+	margin: 5px 0px;
+}
+dt.recipe-section {
+	font-size: 14px;
+	font-weight: bold;
+}
